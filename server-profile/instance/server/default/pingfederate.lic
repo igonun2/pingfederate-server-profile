@@ -1,0 +1,14 @@
+ID=00544013
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=11.1
+EnforcementType=3
+Tier=Subscription
+IssueDate=2023-09-19
+ExpirationDate=2024-09-29
+DeploymentMethod=Traditional
+Organization=Hilton Domestic Operating Company, Inc.
+SignCode=FF0F
+Signature=302E0215008F71B1D4EAE27BC6D34286415DEB81405E56F01F02150085D595439B8AECAE49C91DBE0B983EC1BEE3BBBD
